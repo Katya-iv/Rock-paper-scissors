@@ -1,5 +1,5 @@
 import random
-user_action = input("Enter a choice(rock, paper, scissors)")
+user_action = input("Enter a choice(rock, paper, scissors):")
 while user_action != "bye":
 
     possible_actions = ["rock", "paper", "scissors"]
